@@ -8,7 +8,7 @@ Requires at least: 6.2
 Tested up to: 6.5
 Requires PHP: 7.0
 License: GPLv2 or later
-Stable tag: 7.7
+Stable tag: 7.8.1
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 More than 20 special blocks for Gutenberg to build complex pages and animations with highest possible web vitals score.
@@ -107,6 +107,20 @@ Yes, we guarantee that Greenshift is built on top of google recommendations and 
 7. **Sliding panels, popups.** Build custom sliding panels, add any block, use for mega menus
 
 == Changelog ==
+
+= 7.8.1 =
+* Added: New Bulk stretch and align option for inner items for CSS grid builder
+* Fix: Accordion inner items background issue
+
+= 7.8 =
+* Added: UI improvements for components
+* Added: Iconbox align is device related now
+* Added: Slider block is moved to API 3 with new panels
+* Added: Synchronized Containers feature for slider [check Slider Synchronization](https://greenshiftwp.com/fancy/accordion-synchronization-with-slider/) 
+* Added: Accordion block is moved to new API and new panels
+* Added: Accordion block has new option to attach icon to title
+* Added: Video block is moved to new API and new panels
+* Added: Switcher block is moved to new API and new panels
 
 = 7.7 =
 * Added: Option to copy-paste style to definite type of block inside specific container

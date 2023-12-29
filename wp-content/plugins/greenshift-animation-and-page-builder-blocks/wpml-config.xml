@@ -96,4 +96,7 @@
 		</gutenberg-block>
 
 	</gutenberg-blocks>
+	<custom-fields>
+		<custom-field action="copy">_gspb_post_css</custom-field>
+	</custom-fields>
 </wpml-config>
